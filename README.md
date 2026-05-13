@@ -4,7 +4,7 @@ The need to solve complex problems has always been the result of the passion and
 
 🎓 The Journey
 Current Educational Pursuit:
-BSc in Software Engineering - Currently in Progress (Expected Graduation Date - 2027).
+BSc in Software Engineering - Currently in Progress (Expected Graduation Date - 2028).
 
 The 30-Day Python Grind:
 You may want to check out my 30-Day Practice Repo, where may find my discipline on full display.
